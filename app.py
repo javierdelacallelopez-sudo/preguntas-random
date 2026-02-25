@@ -1,5 +1,6 @@
 
-import streamlite as st
+import streamlit as st
+preguntas = [
     {
         "texto": "¿en que año españa gano el mundial?",
         "opciones": ["2000", "2010", "2026", "1990"],
