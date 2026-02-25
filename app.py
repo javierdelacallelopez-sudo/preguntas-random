@@ -1,5 +1,6 @@
 
 import streamlit as st
+
 preguntas = [
     {
         "texto": "¿en que año españa gano el mundial?",
